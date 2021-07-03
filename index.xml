@@ -12,7 +12,12 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://blog.zechao.cc/docs/blog/cpe-handbook/</guid>
-      <description>如何获取CISSP CPE #  本文翻译自ISC2官方《CPE-handbook》</description>
+      <description>如何获取CISSP CPE #  本文内容大部分翻译自ISC2官方《CPE-handbook》
+ 简介 #  CPE（Continuing Professional Education）是(ISC)2 组织为其会员维持CISSP等认证身份所制订的一套持续学习的规则。安全专家们对CISSP应该有所耳闻，要获得CISSP证书，需要学习广泛的安全相关知识，并通过长达6小时的考试。但是拿到证书只是开始，要维持CISSP的证书，每年需要缴纳年费，并且每三年要求满足一定的安全相关学习、交流、工作的活动时长，即每三年要获得120个CPE积分，才能在3年到期时得以续期，否则CISSP证书资格将收回。
+保持认证和 CPE 要求的一些好处是：
+ 行业对您的技能和经验的认可 同行交流、指导和全球资源 在工作机会和晋升的人群中脱颖而出 获得各种研究、专家指导、行业洞察力和继续教育。 与 (ISC)2 认证的全球认可、价值和道德相关联  这些 CPE 学分可以通过以下类别的各种学习活动获得：
+ (ISC)2提供的CPE相关活动 其他的CPE相关活动  教育相关 （Group A or B） 专业的贡献 （Group A） 专业发展 （Group B） 独特的工作经验 （Group A）    CPE 学分要求：
+   CERTIFICATION TYPE SUGGESTED ANNUAL 3-YEAR TOTAL     CISSP Group A 30 90    Group A or B 10 30    Total Required 40 120     CPE类型（Group A and Group B） #  Group A：领域相关活动</description>
     </item>
     
   </channel>
