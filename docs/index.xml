@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Docs on My Tech Site</title>
+    <title>Docs on Little Security</title>
     <link>https://blog.zechao.cc/docs/</link>
-    <description>Recent content in Docs on My Tech Site</description>
+    <description>Recent content in Docs on Little Security</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://blog.zechao.cc/docs/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-zh</language><atom:link href="https://blog.zechao.cc/docs/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -1,6 +1,6 @@
 {
-  "name": "My Tech Site",
-  "short_name": "My Tech Site",
+  "name": "Little Security",
+  "short_name": "Little Security",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
